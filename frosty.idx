@@ -1,0 +1,4 @@
+FreezeError	frosty.html#FreezeError	frosty: FreezeError	
+ThawError	frosty.html#ThawError	frosty: ThawError	
+freeze	frosty.html#freeze,S,T	frosty: freeze[S, T](output: S; input: T)	
+thaw	frosty.html#thaw,S,T	frosty: thaw[S, T](input: S; output: var T)	
